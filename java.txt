@@ -1,0 +1,17 @@
+jvm is runtime environement of java i.e. that is its own
+4 bytes of memory for 32x and 64x bit os
+
+using switch = print months
+using if= greater out of 2 numbers
+
+looping statements--
+  while(condition){
+-----
+}
+  do while -- exit control loop
+
+
+for loop
+for(init; condition; work ki krna hai)
+{-------
+----}
